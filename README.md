@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luka Culic Viskota, an experienced Embedded Software Engineer
 - 📜 MSc. of Software Engineering
-- 👨‍💻 4+ years of experience developing software for a range of embedded products
+- 👨‍💻 6+ years of experience developing software for a range of embedded products
 - 👀 Interested in embedded systems, be it microcontroller driven or Embedded Linux
 - 📫 You can reach me on luka.culic.viskota@gmail.com
 
